@@ -57,6 +57,7 @@ Test this method using the driver:
 Returns true or false based on whether or not there are living cells within the board (grid)
 
 Test this method using the driver. Click on the **Is Alive** button and the driver will display whether or not there are living cells on the board game.
+
 <img width="308" alt="Screenshot 2024-05-10 at 7 16 42 PM" src="https://github.com/yugalnshah/Conway-Game-of-Life/assets/162384655/c8a186f8-745b-47ad-a83a-3bf0af9ec4fd">
 
 #### 4. numOfAliveNeighbors
@@ -85,6 +86,7 @@ Update the board (grid) with the board returned by the computeNewGrid method.
 Test this and the computeNewGrid methods using the driver by clicking the **Next Generation** button.
 
 The driver will state **Next generation calculated.**
+
 <img width="302" alt="Screenshot 2024-05-10 at 7 19 27 PM" src="https://github.com/yugalnshah/Conway-Game-of-Life/assets/162384655/320c15d0-6ef3-4fe8-bea6-932de0f6b865">
 
 #### 7. nextGeneration - one argument
@@ -113,6 +115,7 @@ In algorithm Weighted Quick Union UF each community (connected component) is a t
 Test this methods using the driver by clicking the **Communities** button.
 
 The driver will state the number of communities currently on the board.
+
 <img width="277" alt="Screenshot 2024-05-10 at 7 21 52 PM" src="https://github.com/yugalnshah/Conway-Game-of-Life/assets/162384655/c205c3a8-25b9-456e-9d3e-79a4104153c5">
 
 ### Find below the expected outputs after going through one generation of grids 1-6
